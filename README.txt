@@ -63,10 +63,9 @@ INSTALANDO GIT NA INSTÂNCIA
 sudo yum install -y git
 
 Clonar repositorio git
-https://github.com/ACloudGuru-Resources/Course_EKS-Basics.git
+https://github.com/MatheusSantos04/eks-deployment.git
 
-mudar para o direorio Course_EKS-Basics
-
+mudar para o diretório eks-deployment
 -----------------------------------------------------------
 
 IMPLANTAÇÃO NO CLUSTER EKS
